@@ -104,7 +104,6 @@ agent.print_status()
 ```
 
 ## Output:
-
 ![alt text](image.png)
 
 ## Result:
